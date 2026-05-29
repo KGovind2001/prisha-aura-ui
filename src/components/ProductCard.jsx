@@ -11,6 +11,7 @@ function ProductCard({ product }) {
           className='card-img-top product-image'
         />
 
+
         <div className='card-body text-center'>
 
           <h4>{product.name}</h4>
